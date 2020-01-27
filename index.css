@@ -1,1 +1,6 @@
-
+body {
+background-image: url("../images/inu01.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: right bottom
+}
